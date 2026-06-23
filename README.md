@@ -38,10 +38,7 @@ A lightweight, tournament-ready chess engine written entirely in Python, using s
    ```
 
 ### Running the Engine
-To start a match or initialize the engine console, run:
-```bash
-python engine.py
-```
+To start a match or initialize the engine console, run engine.py in cutechess or any other platform through UCI
 
 ## 🛠️ Execution Requirements
 *   Python 3.10+
