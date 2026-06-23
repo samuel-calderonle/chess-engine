@@ -24,6 +24,24 @@ A lightweight, tournament-ready chess engine written entirely in Python, using s
 > **Cutechess Output Log:** 
 > `Elo difference: -130.9 +/- 70.8, LOS: 0.0 %, DrawRatio: 8.0 %`
 
+## 🚀 Getting Started
+
+### Prerequisites
+* Python 3.10+
+* `python-chess` library
+
+### Installation
+1. Clone or download this repository.
+2. Install the required chess dependency:
+   ```bash
+   pip install python-chess
+   ```
+
+### Running the Engine
+To start a match or initialize the engine console, run:
+```bash
+python engine.py
+```
 
 ## 🛠️ Execution Requirements
 *   Python 3.10+
