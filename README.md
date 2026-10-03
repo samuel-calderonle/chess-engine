@@ -67,3 +67,8 @@ You can connect this engine directly to popular graphical applications (such as 
 2. Select **Add New Engine** and specify your system's python executable route.
 3. Pass the engine script file name as the primary configuration parameter.
 4. Set the engine type option field explicitly to **UCI**.
+
+---
+
+## Disclaimer
+AI coded this engine, but this project was used to understand software design and algorithms.
