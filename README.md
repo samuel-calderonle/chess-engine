@@ -70,5 +70,8 @@ You can connect this engine directly to popular graphical applications (such as 
 
 ---
 
-## Disclaimer
-AI coded this engine, but this project was used to understand software design and algorithms.
+> [!NOTE]
+> 🤖 **AI Exploration & Deployment Project**
+> 
+> This repository was built using AI to explore software design and algorithms.
+> I do not claim authorship of the underlying code.
